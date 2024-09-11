@@ -270,39 +270,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/anne/proprietary/odm/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_ODM)/etc/libnfc-nci.conf \
     vendor/huawei/anne/proprietary/odm/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_ODM)/etc/libnfc-nxp.conf \
     vendor/huawei/anne/proprietary/odm/etc/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_ODM)/etc/libnfc-nxp_RF.conf \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.p.GC2375ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.p.GC2375ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.p.HI259ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.p.HI259ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.p.IMX319.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.p.IMX319.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.p.IMX371ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.p.IMX371ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.p.IMX498ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.p.IMX498ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.p.IMX576.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.p.IMX576.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.p.OV16885.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.p.OV16885.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.p.OV16B10ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.p.OV16B10ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.p.S5K3P8ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.p.S5K3P8ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.s.GC2375ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.s.GC2375ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.s.HI259ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.s.HI259ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.s.IMX319.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.s.IMX319.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.s.IMX371ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.s.IMX371ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.s.IMX498ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.s.IMX498ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.s.IMX576.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.s.IMX576.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.s.OV16885.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.s.OV16885.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.s.OV16B10ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.s.OV16B10ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.ANNE.s.S5K3P8ANE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.ANNE.s.S5K3P8ANE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.hi6250.m.ANNE.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.hi6250.m.ANNE.so \
-    vendor/huawei/anne/proprietary/odm/lib64/hwcam/hwcam.imx498.pd.so:$(TARGET_COPY_OUT_ODM)/lib64/hwcam/hwcam.imx498.pd.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libSonyIMX371RmscLibrary.so:$(TARGET_COPY_OUT_ODM)/lib64/libSonyIMX371RmscLibrary.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libSonyPDLibrary.so:$(TARGET_COPY_OUT_ODM)/lib64/libSonyPDLibrary.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libarcsoft_agegender_estimation.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_agegender_estimation.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libarcsoft_beautyshot.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_beautyshot.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libarcsoft_palm_detection.so:$(TARGET_COPY_OUT_ODM)/lib64/libarcsoft_palm_detection.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libdcamera_effect.so:$(TARGET_COPY_OUT_ODM)/lib64/libdcamera_effect.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libdualCamera_calibration.so:$(TARGET_COPY_OUT_ODM)/lib64/libdualCamera_calibration.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libfcell.so:$(TARGET_COPY_OUT_ODM)/lib64/libfcell.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libmmi_depth.so:$(TARGET_COPY_OUT_ODM)/lib64/libmmi_depth.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libmpbase.so:$(TARGET_COPY_OUT_ODM)/lib64/libmpbase.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libmrc_cg_beauty.so:$(TARGET_COPY_OUT_ODM)/lib64/libmrc_cg_beauty.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libremosaic_wrapper.so:$(TARGET_COPY_OUT_ODM)/lib64/libremosaic_wrapper.so \
-    vendor/huawei/anne/proprietary/odm/lib64/libremosaiclib.so:$(TARGET_COPY_OUT_ODM)/lib64/libremosaiclib.so \
     vendor/huawei/anne/proprietary/odm/ta/sign_tool_product_ta.sec:$(TARGET_COPY_OUT_ODM)/ta/sign_tool_product_ta.sec \
     vendor/huawei/anne/proprietary/vendor/etc/cfg_ane_al00_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_ane_al00_hisi.ini \
     vendor/huawei/anne/proprietary/vendor/etc/cfg_ane_lx1_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_ane_lx1_hisi.ini \
@@ -310,3 +277,38 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/anne/proprietary/vendor/etc/cfg_ane_lx2_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_ane_lx2_hisi.ini \
     vendor/huawei/anne/proprietary/vendor/etc/cfg_ane_lx2j_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_ane_lx2j_hisi.ini \
     vendor/huawei/anne/proprietary/vendor/etc/cfg_ane_lx3_hisi.ini:$(TARGET_COPY_OUT_VENDOR)/etc/cfg_ane_lx3_hisi.ini
+
+PRODUCT_PACKAGES += \
+    hwcam.hi6250.ANNE.p.GC2375ANE \
+    hwcam.hi6250.ANNE.p.HI259ANE \
+    hwcam.hi6250.ANNE.p.IMX319 \
+    hwcam.hi6250.ANNE.p.IMX371ANE \
+    hwcam.hi6250.ANNE.p.IMX498ANE \
+    hwcam.hi6250.ANNE.p.IMX576 \
+    hwcam.hi6250.ANNE.p.OV16885 \
+    hwcam.hi6250.ANNE.p.OV16B10ANE \
+    hwcam.hi6250.ANNE.p.S5K3P8ANE \
+    hwcam.hi6250.ANNE.s.GC2375ANE \
+    hwcam.hi6250.ANNE.s.HI259ANE \
+    hwcam.hi6250.ANNE.s.IMX319 \
+    hwcam.hi6250.ANNE.s.IMX371ANE \
+    hwcam.hi6250.ANNE.s.IMX498ANE \
+    hwcam.hi6250.ANNE.s.IMX576 \
+    hwcam.hi6250.ANNE.s.OV16885 \
+    hwcam.hi6250.ANNE.s.OV16B10ANE \
+    hwcam.hi6250.ANNE.s.S5K3P8ANE \
+    hwcam.hi6250.m.ANNE \
+    hwcam.imx498.pd \
+    libSonyIMX371RmscLibrary \
+    libSonyPDLibrary \
+    libarcsoft_agegender_estimation \
+    libarcsoft_beautyshot \
+    libarcsoft_palm_detection \
+    libdcamera_effect \
+    libdualCamera_calibration \
+    libfcell \
+    libmmi_depth \
+    libmpbase \
+    libmrc_cg_beauty \
+    libremosaic_wrapper \
+    libremosaiclib
